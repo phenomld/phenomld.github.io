@@ -163,7 +163,7 @@ nav ul a:hover {
   .btn-apply:hover {
     background-color: #8DB5E2;
     border: 2px solid #8DB5E2;
-    color: #000; }
+    color: #fff; }
 
 .btn-apply-inverse {
   color: #000;
