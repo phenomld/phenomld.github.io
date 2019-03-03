@@ -161,21 +161,21 @@ nav ul a:hover {
   -o-transition: background 0.4s linear;
   transition: background 0.4s linear; }
   .btn-apply:hover {
-    background-color: #8DB5E2;
-    border: 2px solid #8DB5E2;
+    background-color: #6D7FE5;
+    border: 2px solid #6D7FE5;
     color: #fff; }
 
 .btn-apply-inverse {
   color: #000;
-  background-color: #8DB5E2;
+  background-color: #6D7FE5;
   border: none !important; }
   .btn-apply-inverse:hover {
     background: black;
-    color: #8DB5E2 !important; }
+    color: #6D7FE5 !important; }
 
 .nav-down {
   background-color: #424242;
-  color: #8DB5E2;
+  color: #6D7FE5;
   opacity: 0.9; }
 
 #nav-logo {
@@ -209,7 +209,7 @@ nav ul a:hover {
     color: white; }
 
 .link-scroll {
-  color: #8DB5E2 !important; }
+  color: #6D7FE5 !important; }
 
 .landing-container {
   width: 100%;
@@ -275,7 +275,7 @@ nav ul a:hover {
 .about-left {
   min-height: 60vh;
   padding: 7%;
-  background-color: #8DB5E2; }
+  background-color: #6D7FE5; }
 
 .about-right {
   padding: 7%;
@@ -333,12 +333,12 @@ nav ul a:hover {
 .coach-titles {
   width: 100%;
   height: 10vh;
-  background-color: #8DB5E2; }
+  background-color: #6D7FE5; }
 
 .coach-bio {
   width: 100%;
   height: 50vh;
-  background-color: #0d47a1;
+  background-color: #424242;
   color: white;
   padding: 10%;
   overflow: scroll; }
@@ -360,8 +360,8 @@ nav ul a:hover {
 #dj:hover .coach-desc, #bubba:hover .coach-desc {
   animation-name: coachUp;
   -webkit-animation-name: coachUp;
-  animation-duration: 1s;
-  -webkit-animation-duration: 1s;
+  animation-duration: 0.5s;
+  -webkit-animation-duration: 0.5s;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   opacity: 0.9; }
@@ -371,7 +371,7 @@ nav ul a:hover {
   color: #000;
   background: #000; }
   .contact-container .text-container {
-    background-color: #8DB5E2;
+    background-color: #6D7FE5;
     width: 80%;
     height: 100%;
     margin: 0 auto;
@@ -392,7 +392,7 @@ nav ul a:hover {
     color: white;
     opacity: 1; }
     .tabs .tab .active:hover {
-      color: #8DB5E2; }
+      color: #6D7FE5; }
 
 .collection {
   border: none;
@@ -450,7 +450,7 @@ nav ul a:hover {
     #schedule-content .camp-wrapper a {
       color: #0d47a1; }
       #schedule-content .camp-wrapper a:hover {
-        color: #8DB5E2; }
+        color: #6D7FE5; }
     #schedule-content .camp-wrapper .col {
       text-align: center;
       border: 1px solid black;
@@ -468,6 +468,6 @@ footer.page-footer {
   font-family: "Open Sans", sans-serif;
   margin-top: 0px; }
   footer.page-footer .link:hover {
-    color: #8DB5E2 !important; }
+    color: #6D7FE5 !important; }
 
 /*# sourceMappingURL=theme.css.map */

@@ -124,7 +124,7 @@ $font-hd: 'Fjalla One', sans-serif;
 $font-body: 'Cantarell', sans-serif;
 $font-try:'Open Sans', sans-serif;
 
-$lt-blue: #8DB5E2;
+$lt-blue: #6D7FE5;
 $dark-blue: #0d47a1;
 $lt-gray: #bdbdbd;
 $med-gray: #616161;
@@ -419,7 +419,7 @@ nav ul a:hover {
 .coach-bio {
 	width: 100%;
 	height: 50vh;
-	background-color: $dark-blue;
+	background-color: $dark-gray;
 	color: white;
 	padding: 10%;
 	overflow: scroll;
@@ -447,8 +447,8 @@ nav ul a:hover {
 		.coach-desc {
 			animation-name: coachUp;
 			-webkit-animation-name: coachUp;
-			animation-duration: 1s;
-			-webkit-animation-duration: 1s;
+			animation-duration: 0.5s;
+			-webkit-animation-duration: 0.5s;
 			-webkit-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
 			opacity: 0.9;
